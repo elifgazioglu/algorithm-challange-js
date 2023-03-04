@@ -7,3 +7,4 @@
 | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)|[CompareTheTriplets.js](https://github.com/elifgazioglu/algorithm-challange-js/blob/main/CompareTheTriplets.js)
 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)|[DiagonalDifference.js](https://github.com/elifgazioglu/algorithm-challange-js/blob/main/DiagonalDifference.js)
 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=true)|[BirthdayCakeCandles.js](https://github.com/elifgazioglu/algorithm-challange-js/blob/main/BirthdayCakeCandles.js)
+| [Mini Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true)|[MiniMaxSum.js](https://github.com/elifgazioglu/algorithm-challange-js/blob/main/MiniMaxSum.js)
