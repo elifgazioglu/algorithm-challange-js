@@ -9,3 +9,6 @@
 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=true)|[BirthdayCakeCandles.js](https://github.com/elifgazioglu/algorithm-challange-js/blob/main/BirthdayCakeCandles.js)
 | [Mini Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true)|[MiniMaxSum.js](https://github.com/elifgazioglu/algorithm-challange-js/blob/main/MiniMaxSum.js)
 | [Stair Case](https://www.hackerrank.com/challenges/staircase/problem?isFullScreen=true)|[StairCase.js](https://github.com/elifgazioglu/algorithm-challange-js/blob/main/StairCase.js)
+| [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true)|[TimeConversion.js](https://github.com/elifgazioglu/algorithm-challange-js/blob/main/TimeConversion.js)
+
+
