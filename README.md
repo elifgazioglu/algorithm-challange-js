@@ -11,5 +11,8 @@
 | [Stair Case](https://www.hackerrank.com/challenges/staircase/problem?isFullScreen=true)|[StairCase.js](https://github.com/elifgazioglu/algorithm-challange-js/blob/main/StairCase.js)
 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true)|[TimeConversion.js](https://github.com/elifgazioglu/algorithm-challange-js/blob/main/TimeConversion.js)
 | [Grading Students](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true)|[GradingStudents.js](https://github.com/elifgazioglu/algorithm-challange-js/blob/main/GradingStudents.js)
+| [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem?isFullScreen=true)|[Kangaroo.js](https://github.com/elifgazioglu/algorithm-challange-js/blob/main/Kangaroo.js)
+
+
 
 
