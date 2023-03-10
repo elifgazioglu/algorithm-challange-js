@@ -1,14 +1,13 @@
 function birthdayCakeCandles(candles) {
     let maks = candles[0];
     let result = 0;
-    for(let i=0; i<candles.length; i++){
-        if(candles[i] > maks){
-            maks = candles[i];
+    candles.map((item,index) =>{
+        if(item > maks){
+            maks = item;
         }
-        else if(maks == candles[i]){
+        else if(maks == item){
             result ++;
         }
-    }
-    
+    })
     return result;
 }
