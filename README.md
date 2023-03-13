@@ -13,7 +13,7 @@
 | [Grading Students](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true)|[GradingStudents.js](https://github.com/elifgazioglu/algorithm-challange-js/blob/main/GradingStudents.js)
 | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo/problem?isFullScreen=true)|[Kangaroo.js](https://github.com/elifgazioglu/algorithm-challange-js/blob/main/Kangaroo.js)
 | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?isFullScreen=true)|[BreakingTheRecords.js](https://github.com/elifgazioglu/algorithm-challange-js/blob/main/BirthdayCakeCandles.js)
-
+| [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds/problem?isFullScreen=true)|[MigratoryBirds.js](https://github.com/elifgazioglu/algorithm-challange-js/blob/main/MigratoryBirds.js)
 
 
 
