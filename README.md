@@ -20,6 +20,8 @@
 | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets/problem?isFullScreen=true)|[Between Two Sets](https://github.com/elifgazioglu/algorithm-challange-js/blob/main/BetweenTwoSets.js)
 | [Breaking Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem?isFullScreen=true)|[Breaking Records](https://github.com/elifgazioglu/algorithm-challange-js/blob/main/BreakingRecords.js)
 | [Length Of Last Word](https://leetcode.com/problems/length-of-last-word/?envType=daily-question&envId=2024-04-01)|[Length Of Last Word](https://github.com/elifgazioglu/algorithm-challange-js/blob/main/LengthOfLastWord.js)
+| [Two Sum](https://leetcode.com/problems/two-sum/description/)|[Two Sum](https://github.com/elifgazioglu/algorithm-challange-js/blob/main/TwoSum.js)
+| [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)|[Palindrome Number](https://github.com/elifgazioglu/algorithm-challange-js/blob/main/PalindromeNumber.js)
 
 
 
